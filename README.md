@@ -29,4 +29,4 @@
 
 #### Скриншот сайта:
 
-![screen](https://i.ibb.co/NLkWR45/sitescr.jpg)
+![screen](https://ibb.co/x8gnWR6)
